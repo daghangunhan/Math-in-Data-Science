@@ -1,5 +1,3 @@
-# Math-in-Data-Science
-
 ## Hiç veri biliminde bir kariyer düşünüp matematik gereksinimlerinden korktuğunuz için vazgeçtiğiniz oldu mu? 
 
 Veri bilimi birçok matematik konusunun üzerine inşa edilmiş olsa da pratikte bir veri bilimcisi olmak için gereken matematik bilgisi düşündüğünüzden daha az olabilir. Veri bilimi için gereken matematik bilgisi hakkında Google'da arama yaptığınızda, sürekli olarak ortaya çıkan üç konu calculus, lineer cebir ile olasılık ve istatistiktir. İyi haber şu ki çoğu veri bilimi pozisyonu için yakından aşina olmanız gereken tek matematik türü olasılık ve istatistiktir. Üniversitede travmatik matematik deneyimleri olan birçok insan için, calculus’ü yeniden öğrenmek zorunda kalacakları düşüncesi, veri bilimcisi olmak için gerçek bir engel olabilir.
